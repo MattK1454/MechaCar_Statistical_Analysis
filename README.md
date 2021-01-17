@@ -35,10 +35,10 @@ A one-sided test was performed on the PSI measurements for the Lot 1 production 
 
 ![Lot 2 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot2_psi_t_test.png)
 
-A one-sided test was performed on the PSI measurements for the Lot 2 production of MechaCars. The p-value of ~0.61 means we can not reject the null hypothesis and therefore concluded there is no statistical difference between the Lot 2 production of MechaCars and the design specification target of 1500 psi. Hence, the 2nd production lot meets design specification requirements.
+A one-sided test was performed on the PSI measurements for the Lot 2 production of MechaCars. The p-value of ~ 0.61 means we can not reject the null hypothesis and therefore concluded there is no statistical difference between the Lot 2 psi production measurments of MechaCars and the design specification target of 1500 psi. Hence, the 2nd production lot meets design specification requirements.
 
 ![Lot 3 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot3_psi_t_test.png)
 
-Lot 3
+A one-sided test was performed on the PSI measurements for the Lot 1 production of MechaCars. The p-value of ~ 0.041 means we can reject the null hypothesis and therefore concluded there is a statistical difference between the Lot 3 psi production measurements of MechaCars and the design specification target of 1500 psi. Hence, the 3rd production lot fails to meet design specification requirements.
 
 ## Study Design: MechaCar vs Competition

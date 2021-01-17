@@ -27,16 +27,18 @@ Following up on the variance requirements for the MechaCar production lots, anal
 
 ![Total lot t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/total_manufactured_psi_test.png)
 
-Total production t-test
+A one-sided test was performed on the PSI average for the total production lot of the MechaCars. The p-value result is 0.06 so the test hypothesis can not be rejected and therefore we can state there is no statistical difference between the over all MechaCar production and the targeted production standard of 1500 psi.
 
 ![Lot 1 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot1_psi_t_test.png)
 
-Lot 1
+A one-sided test was performed on the PSI measurements for the Lot 1 production of MechaCars. The p-value of 1 means we can not reject the null hypothesis and therefore concluded there is no statistical difference between the Lot 1 production of MechaCars and the design specification target of 1500 psi. Hence, the 1st production lot meets design specification requirements.
 
 ![Lot 2 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot2_psi_t_test.png)
 
-Lot 2
+A one-sided test was performed on the PSI measurements for the Lot 2 production of MechaCars. The p-value of ~0.61 means we can not reject the null hypothesis and therefore concluded there is no statistical difference between the Lot 2 production of MechaCars and the design specification target of 1500 psi. Hence, the 2nd production lot meets design specification requirements.
 
 ![Lot 3 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot3_psi_t_test.png)
 
 Lot 3
+
+## Study Design: MechaCar vs Competition

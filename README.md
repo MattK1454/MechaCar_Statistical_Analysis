@@ -21,4 +21,22 @@ The purpose of this summary analysis is to determine if the variance of the tota
 
 ![Summary Statistics on Suspension - lot summary](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/suspension_coil_lot_summary.png)
 
-Following up on the variance requirements for the MechaCar production lots, analysin
+Following up on the variance requirements for the MechaCar production lots, analyzing each lot production lot will yield further understanding as to what is leading the suspension coil variance. Lots 1 and 2 have variances well within the design specifications range of less than 100. Lot 3, however, has a suspension coil variance of ~ 170.28. This causes lot 3 of the MechaCar manufacturing to fail to meet design specifications.
+
+## T-Tests on Suspension Coils
+
+![Total lot t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/total_manufactured_psi_test.png)
+
+Total production t-test
+
+![Lot 1 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot1_psi_t_test.png)
+
+Lot 1
+
+![Lot 2 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot2_psi_t_test.png)
+
+Lot 2
+
+![Lot 3 t-test](https://github.com/MattK1454/MechaCar_Statistical_Analysis/blob/main/images/Lot3_psi_t_test.png)
+
+Lot 3

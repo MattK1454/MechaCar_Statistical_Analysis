@@ -43,7 +43,37 @@ A one-sided test was performed on the PSI measurements for the Lot 1 production 
 
 ## Study Design: MechaCar vs Competition
 
-In designing a study to evaluate the performance of the MechaCar against the competition the metrics of interest in the study are safety rating, maintenance cost, city fuel efficiency, highway fuel efficiency, horse power, seating capacity, and cargo space by vehicle class. The null hypothesis is there is no statistical difference between the MechaCars and the competition on the variables of interest: safety rating, maintenance cost, city fuel efficiency, highway fuel efficiency, horse power, seating capacity, and cargo space by vehicle class. The proper statistical test for evaluating the varibles of interest would be a two-sided t-test for the maintenance cost, fuel efficiency, and horse power and an ANOVA test for the safety rating, seating capacity, and cargo space. Data needed to perform these tests include safety rating scores for MechaCars and competition, as well as, maintenance cost, fuel efficiency for both city and highway, and horse power. The tests also require the number of seats in the car and the free volume in the car model.
+In designing a study to evaluate the performance of the MechaCar against the competition the metrics of interest in the study are:
+
+ - safety rating 
+ - maintenance cost 
+ - city fuel efficiency 
+ - highway fuel efficiency 
+ - horse power 
+ - seating capacity 
+ - cargo space by vehicle class. 
+ 
+The null hypothesis is there is no statistical difference between the MechaCars and the competition on the variables of interest: 
+
+**safety rating 
+**maintenance cost 
+**city fuel efficiency 
+**highway fuel efficiency 
+**horse power
+**seating capacity 
+**cargo space by vehicle class 
+
+The proper statistical test for evaluating the varibles of interest would be a two-sided t-test for the maintenance cost, fuel efficiency, and horse power and an ANOVA test for the safety rating, seating capacity, and cargo space. Data needed to perform these tests include: 
+
+- safety rating scores for MechaCars and competition 
+- maintenance cost 
+- fuel efficiency for both city and highway 
+- horse power. 
+
+The ANOVA tests require: 
+
+- the number of seats in the car 
+- the free volume in the car model
 
 ## References
-1. 
+1. Module 15 Challenge. (n.d.). Retrieved January 17, 2021, from https://courses.bootcampspot.com/courses/453/assignments/6228
